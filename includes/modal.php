@@ -6,6 +6,7 @@
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
         <h4 class="modal-title text-center">Next Meeting:<br><strong>Monday March 16th 2020</strong></h4>
+        <div class="alert alert-danger">Cancelled due to Coronovirus</div>
       </div>
       <div class="modal-body">
         <p>DVSA. George Kountouros (ADI Enforcement) & Neil Ward (LDTM Hither Green) DTC on future of Hither Green Driving Test centre.</p>

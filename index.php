@@ -23,6 +23,7 @@
 </head>
 <body>
 <?php include 'includes/navigation.php'; ?>
+<div class="font-weight-bold alert alert-danger text-center bold" style="margin-bottom:0;" role="alert">Meeting on 16th March 2020 <span class="text-uppercase">Cancelled</span> due to Coronovirus</div>
 <?php include 'includes/jumbotron.php'; ?>
 <?php include 'includes/modal.php'; ?>
 

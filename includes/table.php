@@ -4,7 +4,7 @@
 				<tr><td><span>2020</span></td><td>Guests</td></tr>
 		</thead>
 		<tr><td class="line-through">Monday January 20th</td><td class="line-through">AGM plus Smart Motorways with Kevin Martin</td></tr>
-		<tr><td>Monday March 16th</td><td>DVSA. George Kountouros (ADI Enforcement) & Neil Ward (LDTM Hither Green) on future of Hither Green DTC</td></tr>
+		<tr><td>Monday March 16th</td><td><span class="alert alert-danger">Cancelled</span><!--  DVSA. George Kountouros (ADI Enforcement) & Neil Ward (LDTM Hither Green) on future of Hither Green DTC --></td></tr>
 		<tr><td>Monday May 18th</td><td>Horses on the road. Teresa Allen & Andy Hill</td></tr>
 		<tr><td>Monday June 15th</td><td>HGV Event - To be confirmed</td></tr>
 	</table>
