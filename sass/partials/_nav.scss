@@ -1,0 +1,35 @@
+/* nav styles */
+
+.navbar {
+	margin-bottom:0;
+	background-color:$white;
+  color:$proper-grey;
+  min-height:80px;
+  width:100%;
+}
+
+.navbar-default .navbar-brand {
+	text-transform:uppercase;
+    font-weight:900;
+    color:$proper-grey;
+  padding:0 15px;
+  height:80px;
+  line-height:80px;
+	}
+
+  .navbar-toggle {
+    margin-top:23px;
+    padding:9px 10px !important;
+  }
+
+  .navbar-nav > li > a {
+    font-size:12pt;
+  }
+
+  @media (min-width:768px)  {
+    .navbar-nav > li > a {
+      padding-top:26.5px;
+      padding-bottom:26.5px;
+      line-height:27px;
+    }
+  }

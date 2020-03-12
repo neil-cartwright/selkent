@@ -1,0 +1,27 @@
+/* form and table elements */
+
+form {
+	text-align:center;
+}
+
+table.table_2016 {
+	display:none;
+}
+
+.line-through {
+	text-decoration:line-through;
+	opacity:0.5;
+	color:$grey;
+}
+
+table {
+	font-weight:bold;
+}
+
+table thead tr td {
+	text-align:center;
+}
+table tr td {
+	text-align:left;
+}
+
